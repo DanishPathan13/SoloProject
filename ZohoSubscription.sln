@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZohoSubscription", "ZohoSubscription\ZohoSubscription.csproj", "{13E5AF58-6CAE-4AAC-97FA-7A4EB332D496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E5AF58-6CAE-4AAC-97FA-7A4EB332D496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E5AF58-6CAE-4AAC-97FA-7A4EB332D496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E5AF58-6CAE-4AAC-97FA-7A4EB332D496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E5AF58-6CAE-4AAC-97FA-7A4EB332D496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC28091C-9B6E-46B1-AE35-A3E3A61A40C1}
+	EndGlobalSection
+EndGlobal
